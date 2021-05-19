@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<LanguageFilter>
+	<Languages>
+		<Language codeISO3="eng" codeISO1="en-us"/>
+		<Language codeISO3="eng" codeISO1="en-gb"/>
+		<Language codeISO3="eng" codeISO1="en"/>
+		<Language codeISO3="nld" codeISO1="nl"/>
+		<Language codeISO3="nld" codeISO1="nl-be"/>
+		<Language codeISO3="deu" codeISO1="de-ch"/>
+		<Language codeISO3="deu" codeISO1="de-at"/>
+		<Language codeISO3="deu" codeISO1="de"/>
+		<Language codeISO3="por" codeISO1="pt"/>
+		<Language codeISO3="dan"/>
+		<Language codeISO3="spa" codeISO1="es"/>
+		<Language codeISO3="fra" codeISO1="fr"/>
+		<Language codeISO3="fra" codeISO1="fr-ch"/>
+		<Language codeISO3="ita" codeISO1="it"/>
+		<Language codeISO3="nor" codeISO1="no"/>
+		<Language codeISO3="nno" codeISO1="nn"/>
+		<Language codeISO3="nob" codeISO1="nb"/>
+		<Language codeISO3="swe" codeISO1="sv-fi"/>
+		<Language codeISO3="swe" codeISO1="sv"/>
+		<Language codeISO3="fin" codeISO1="fi"/>
+		<Language codeISO3="pol" codeISO1="pl"/>
+		<Language codeISO3="est" codeISO1="et"/>
+		<Language codeISO3="lav" codeISO1="lv"/>
+		<Language codeISO3="lit" codeISO1="lt"/>
+		<Language codeISO3="bel" codeISO1="be"/>
+		<Language codeISO3="rus" codeISO1="ru"/>
+		<Language codeISO3="ces" codeISO1="cs"/>
+		<Language codeISO3="hun" codeISO1="hu"/>
+		<Language codeISO3="slv" codeISO1="sl"/>
+		<Language codeISO3="hrv" codeISO1="hr"/>
+		<Language codeISO3="bos" codeISO1="bs"/>
+		<Language codeISO3="ell" codeISO1="el"/>
+		<Language codeISO3="bul" codeISO1="bg"/>
+		<Language codeISO3="ron" codeISO1="ro"/>
+		<Language codeISO3="ukr" codeISO1="uk"/>
+		<Language codeISO3="tur" codeISO1="tr"/>
+	</Languages>
+</LanguageFilter>

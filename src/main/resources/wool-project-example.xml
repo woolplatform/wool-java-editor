@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<WoolProject
+	name="Example WOOL Project"
+	basePath="/users/harmopdenakker/"
+	description=""
+	version="0.1.0"
+>
+
+	<WoolLanguageMap>
+		<WoolLanguageSet>
+			<WoolSourceLanguage name="English" folder ="en"/>
+			<TranslationLanguages>
+				<WoolTranslationLanguage name="Dutch" folder="nl"/>
+				<WoolTranslationLanguage name="German" folder="de"/>
+			</TranslationLanguages>
+		</WoolLanguageSet>
+		<WoolLanguageSet>
+			<WoolSourceLanguage name="Portuguese" folder ="pt"/>
+			<TranslationLanguages>
+				<WoolTranslationLanguage name="Spanish" folder="es"/>
+				<WoolTranslationLanguage name="Portuguese (Brazil)" folder="pt-br"/>
+			</TranslationLanguages>
+		</WoolLanguageSet>
+	</WoolLanguageMap>
+
+</WoolProject>

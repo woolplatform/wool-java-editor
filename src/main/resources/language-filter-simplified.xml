@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<LanguageFilter>
+	<Languages>
+		<Language codeISO3="eng" codeISO1="en-us"/>
+		<Language codeISO3="nld" codeISO1="nl"/>
+		<Language codeISO3="eng" codeISO1="en"/>
+		<Language codeISO3="deu" codeISO1="de-ch"/>
+		<Language codeISO3="deu" codeISO1="de"/>
+		<Language codeISO3="por" codeISO1="pt"/>
+		<Language codeISO3="dan"/>
+	</Languages>
+</LanguageFilter>

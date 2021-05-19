@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'eu.woolplatform.editor'
+version 'ALPHA-1'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "eu.woolplatform:wool-core:2.2.4"
+    //compile "eu.woolplatform:wool-utils:2.2.2"
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.11.3'
+}
