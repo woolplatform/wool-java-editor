@@ -10,7 +10,6 @@ repositories {
 }
 
 dependencies {
-    compile "eu.woolplatform:wool-core:2.2.4"
-    //compile "eu.woolplatform:wool-utils:2.2.2"
+    compile "eu.woolplatform:wool-core:2.2.5"
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.11.3'
 }
